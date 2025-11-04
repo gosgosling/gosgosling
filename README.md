@@ -14,7 +14,7 @@ DEVOPS_STACK = [Kubernetes, Docker, Linux, Python, Zabbix, Bash]
 PHILOSOPHY_STACK = ["Stoicism", "Rational Investing", "Chelpanov's Logic"]
 LIFECYCLE = "Infrastructure-as-Code | Monitoring | Automation"
 ```
-Kubernetes 🎯 - Оркестрирую хаос в элегантные кластеры
+Kubernetes 🎯 - Оркестрирую хаос в элегантные кластеры\
 Docker 🐳 - Упаковываю сложность в контейнеры элегантности
 Linux 🐧 - Дышу bash-ом, мыслю скриптами
 Python 🐍 - Превращаю кофе в автоматизацию
